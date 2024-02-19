@@ -12,4 +12,5 @@ https://github.com/gracedgreen/Linear.Algebra.Projects/blob/main/Copy_of_Math_31
 https://github.com/gracedgreen/Linear.Algebra.Projects/blob/main/Grace_G's_copy_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
 3. Take Home Exam #3
+   
 https://colab.research.google.com/drive/1hzl672zsKo5qDYl5xVk2zgRFrr33NOdV#scrollTo=Z-nvtuOHcEqM
